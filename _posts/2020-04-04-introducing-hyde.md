@@ -1,37 +1,47 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Welcome
 ---
 
-Hyde is a brazen two-column [Jekyll](https://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](https://getpoole.com), the Jekyll butler.
+## Order of the Mimosa
+The Order of the Mimosa is a ???
 
-### Built on Poole
+### Brief instructions for GitHub Pages newcomers
+You can use the [editor on GitHub](https://github.com/scottbot/privacy-workshop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+#### Markdown
 
-### Hyde features
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-In addition to the features of Poole, Hyde adds the following:
+```markdown
+Syntax highlighted code block
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+# Header 1
+## Header 2
+### Header 3
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+- Bulleted
+- List
 
-### Browser support
+1. Numbered
+2. List
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+**Bold** and _Italic_ and `Code` text
 
-### Download
+[Link](url) and ![Image](src)
+```
 
-Hyde is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/poole/hyde) for downloads, bug reports, and features requests.
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Thanks!
+### Colophon
+
+The site is built on [Hyde](https://hyde.getpoole.com/), a [Jekyll](http://jekyllrb.com) theme based on [Poole](http://getpoole.com).
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
+
